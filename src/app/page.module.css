@@ -1,0 +1,20 @@
+.button{
+  width: 172px !important;
+  padding: 10px 20px !important;
+  color: black !important;
+  font-weight: 600 !important;
+}
+.button-div{
+  display: flex;
+}
+.btn-icon{
+  position: absolute;
+  margin-top: 3px;
+}
+.title{
+  display: flex;
+  justify-content: center;
+}
+.button-card{
+ padding: 90px 40px;
+}
